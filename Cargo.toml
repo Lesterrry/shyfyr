@@ -1,0 +1,12 @@
+[package]
+name = "shyfyr"
+version = "0.1.0"
+authors = ["Aydar <me@aydar.media>"]
+edition = "2018"
+repository = "https://github.com/Lesterrry/shyfyr"
+description = "Simpliest possible text encryption algorithm that goes FYR"
+license = "Unlicense"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
