@@ -1,5 +1,6 @@
 # shyfyr
 [![Crate](https://img.shields.io/badge/crates.io-v0.1.1-orange)](https://crates.io/crates/shyfyr)
+
 Text encryption algorithm library that goes ФЫР
 ```
 mod lib;
